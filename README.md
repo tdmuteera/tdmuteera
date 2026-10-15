@@ -11,7 +11,7 @@ I build data-driven backend systems and full-stack web apps, from multi-tenant S
 | **[LexZim](https://github.com/tdmuteera/lexzim)** | Multi-tenant legal practice management for Zimbabwean law firms: matters, clients, deadlines, billing, trust accounting, client portal, and a Zimbabwe-grounded AI assistant | Next.js, TypeScript, Supabase/Postgres, Drizzle | [lexzim-production.up.railway.app](https://lexzim-production.up.railway.app/staff) |
 | **[AHAP Production Planner](https://github.com/tdmuteera/ahap-production-planner)** | Dissertation project: human-AI collaborative production planning and stock optimisation, where managers' corrections teach the AI | React, Node/Express, MongoDB, Groq | [ahap-production-planner.vercel.app](https://ahap-production-planner.vercel.app/) |
 | **[Tsvakiridzo Website](https://github.com/tdmuteera/tsvakiridzo-website)** | Company website for an engineering & IT consultancy, with an enquiry form, SEO and content-driven pages | Next.js, TypeScript, Tailwind | [tsvakiridzo-website.vercel.app](https://tsvakiridzo-website.vercel.app/) |
-| **[VANA DUMI ERM](https://github.com/tdmuteera/vana-dumi-erm)** | Enterprise risk management: risk register, scoring, mitigations, alerts, audit trail, PDF/Excel reports | FastAPI, PostgreSQL, React, TypeScript | — |
+| **[Enterprise Risk Management System](https://github.com/tdmuteera/enterprise-risk-management-system)** | Enterprise risk management: risk register, scoring, mitigations, alerts, audit trail, PDF/Excel reports | FastAPI, PostgreSQL, React, TypeScript | — |
 | **[Sentinel Payroll](https://github.com/tdmuteera/sentinel-payroll)** | Desktop payroll app: employee records, payroll calculations, payslips | Electron, React, Express, SQLite | — |
 
 ## 🛠️ Skills
